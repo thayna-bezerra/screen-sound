@@ -1,0 +1,14 @@
+C:\Users\Thayná Bezerra\OneDrive\Documentos\GitHub\screen-sound\screen-sound\screen-sound\bin\Debug\net7.0\screen-sound.exe
+C:\Users\Thayná Bezerra\OneDrive\Documentos\GitHub\screen-sound\screen-sound\screen-sound\bin\Debug\net7.0\screen-sound.deps.json
+C:\Users\Thayná Bezerra\OneDrive\Documentos\GitHub\screen-sound\screen-sound\screen-sound\bin\Debug\net7.0\screen-sound.runtimeconfig.json
+C:\Users\Thayná Bezerra\OneDrive\Documentos\GitHub\screen-sound\screen-sound\screen-sound\bin\Debug\net7.0\screen-sound.dll
+C:\Users\Thayná Bezerra\OneDrive\Documentos\GitHub\screen-sound\screen-sound\screen-sound\bin\Debug\net7.0\screen-sound.pdb
+C:\Users\Thayná Bezerra\OneDrive\Documentos\GitHub\screen-sound\screen-sound\screen-sound\obj\Debug\net7.0\screen-sound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thayná Bezerra\OneDrive\Documentos\GitHub\screen-sound\screen-sound\screen-sound\obj\Debug\net7.0\screen-sound.AssemblyInfoInputs.cache
+C:\Users\Thayná Bezerra\OneDrive\Documentos\GitHub\screen-sound\screen-sound\screen-sound\obj\Debug\net7.0\screen-sound.AssemblyInfo.cs
+C:\Users\Thayná Bezerra\OneDrive\Documentos\GitHub\screen-sound\screen-sound\screen-sound\obj\Debug\net7.0\screen-sound.csproj.CoreCompileInputs.cache
+C:\Users\Thayná Bezerra\OneDrive\Documentos\GitHub\screen-sound\screen-sound\screen-sound\obj\Debug\net7.0\screen-sound.dll
+C:\Users\Thayná Bezerra\OneDrive\Documentos\GitHub\screen-sound\screen-sound\screen-sound\obj\Debug\net7.0\refint\screen-sound.dll
+C:\Users\Thayná Bezerra\OneDrive\Documentos\GitHub\screen-sound\screen-sound\screen-sound\obj\Debug\net7.0\screen-sound.pdb
+C:\Users\Thayná Bezerra\OneDrive\Documentos\GitHub\screen-sound\screen-sound\screen-sound\obj\Debug\net7.0\screen-sound.genruntimeconfig.cache
+C:\Users\Thayná Bezerra\OneDrive\Documentos\GitHub\screen-sound\screen-sound\screen-sound\obj\Debug\net7.0\ref\screen-sound.dll
